@@ -1,3 +1,5 @@
+<!-- GitHub profile README for MantakaMahir -->
+
 # Mantaka Mahir
 
 **AI Engineer | AI Automation Engineer | Agentic Systems Builder**  
