@@ -1,6 +1,6 @@
 # Mantaka Mahir
 
-**AI Engineer & Consultant · Co-founder @ [Gotiq](https://gotiq.co/)**  
+**AI Engineer & Consultant @ [Gotiq](https://gotiq.co/)**  
 Dhaka, Bangladesh
 
 I build AI agents, automation, and custom software that reduce manual work.
